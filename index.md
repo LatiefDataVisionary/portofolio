@@ -1,4 +1,4 @@
-# Lathif Ramadhan
+# Undergraduate Data Science Student 
 *Architecting Intelligent Systems with Data, from Concept to Deployment.*
 
 [💼 LinkedIn](https://www.linkedin.com/in/lathiframadhan/) | [👾 GitHub](https://github.com/LatiefDataVisionary) | [✉️ Email](mailto:datasciencelatief@gmail.com)
@@ -13,9 +13,12 @@ As a 3rd year Data Science honours student with a **3.95 GPA**, my academic foun
 
 ### My Philosophy
 
-*   **Data as a Language:** I treat data not just as numbers, but as a language that tells a story. My goal is to become fluent in that language to uncover narratives that others might miss.
-*   **Models as Tools, Not Oracles:** I build machine learning models as powerful tools to solve specific problems, rigorously testing and evaluating them to understand their strengths and limitations.
-*   **Pragmatic Innovation:** I am deeply fascinated by the frontier of AI, especially LLMs. I focus on applying these powerful technologies to create tangible business value, not just for the sake of novelty.
+* **Data as a Language:**
+I treat data not just as numbers, but as a language that tells a story. My goal is to become fluent in that language to uncover narratives that others might miss.
+*   **Models as Tools, Not Oracles:**
+  I build machine learning models as powerful tools to solve specific problems, rigorously testing and evaluating them to understand their strengths and limitations.
+*   **Pragmatic Innovation:**
+  I am deeply fascinated by the frontier of AI, especially LLMs. I focus on applying these powerful technologies to create tangible business value, not just for the sake of novelty.
 
 ---
 
