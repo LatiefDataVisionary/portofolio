@@ -1,8 +1,3 @@
----
-# Kosongkan bagian ini atau biarkan seperti ini. 
-# Baris --- ini memberitahu GitHub untuk memproses file ini sebagai halaman spesial.
----
-
 # Lathif Ramadhan
 *Architecting Intelligent Systems with Data, from Concept to Deployment.*
 
