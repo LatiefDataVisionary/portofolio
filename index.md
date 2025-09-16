@@ -91,4 +91,4 @@ I am actively seeking challenging remote internship or part-time opportunities w
 
 If you're building something amazing, let's connect.
 
-**[Say Hello → your.email@example.com](mailto:datasciencelatief@gmail.com)**
+**[Say Hello → datasciencelatief@gmail.com](mailto:datasciencelatief@gmail.com)**
